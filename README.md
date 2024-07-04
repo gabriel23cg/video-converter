@@ -1,1 +1,3 @@
-# video_converter
+# video-converter
+
+Convert a video with `ffmpeg`.
